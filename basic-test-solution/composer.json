@@ -1,0 +1,10 @@
+{
+    "name": "gl/basic-test-solution",
+    "description": "Calculator App",
+    "autoload": {
+        "psr-4": {
+            "Gl\\BasicTestSolution\\": "src/"
+        }
+    },
+    "require": {}
+}
